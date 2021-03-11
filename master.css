@@ -1,0 +1,39 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
+}
+
+img {
+    width: 100%
+} 
+
+h2 {
+    margin-bottom: 5px;
+}
+
+h3 {
+    margin-top: 0px;
+}
+
+.content-box {
+    margin: 30px auto;
+    width: 500px;
+}
+.link {
+    color: grey;
+    display: block;
+    font-weight: bold;
+    margin-top: 15px;
+    text-decoration: none;
+    width: fit-content;
+}
+
+.link:visited {
+    color: grey;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: brown;
+    text-decoration: none;
+}
